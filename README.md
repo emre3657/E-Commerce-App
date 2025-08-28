@@ -1,13 +1,12 @@
 ﻿# E-Commerce-App
 
-![status: inactive](https://img.shields.io/badge/maintenance-inactive-lightgrey)
+![status: archived](https://img.shields.io/badge/maintenance-archived-lightgrey)
 ![stack: asp.net core mvc](https://img.shields.io/badge/stack-ASP.NET%20Core%20MVC-blue)
 ![db: sql server](https://img.shields.io/badge/db-SQL%20Server-red)
 
 An experimental e‑commerce app built with **ASP.NET Core MVC**. This repository is **kept for reference only** and is not under active development because new work is moving to a Node.js/Express/React stack.
 
-> **Maintenance:** Not actively maintained. This repository is kept for reference/demos.
-> **Reason:** This project was for learning purposes of ASP.NET
+> **Status:** This repository is archived and kept for reference/demos. 
 
 ---
 
@@ -163,10 +162,10 @@ Ensure `UseStaticFiles()` middleware is configured (it usually is in the default
 - [ ] CI (GitHub Actions)
 - [ ] Migration to Node.js/Express/React (in a new repository)
 
-> This repository is **not** accepting new features becasue of inactivity.
+> This repository is **not** accepting new features due to archiving
 
 ## Contributing
-Small fixes are welcome via PRs, but the project is now inactive. 
+Small fixes are welcome via PRs, but the project was archived. 
 
 ## License
 MIT 
