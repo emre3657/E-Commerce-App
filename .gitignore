@@ -1,0 +1,20 @@
+# IDE / user-specific
+.vs/
+*.user
+.github
+Properties/
+wwwroot/lib
+*.ico
+.editorconfig
+
+# Build / test outputs
+**/bin/
+**/obj/
+
+
+# Local-only config/secrets
+appsettings.*.json
+appsettings.json
+	 
+
+
